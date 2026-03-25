@@ -4,6 +4,9 @@ Frontend Preview :
 
 <img width="1919" height="1194" alt="image" src="https://github.com/user-attachments/assets/5e8cf1ee-c496-4f78-a3f1-b61b1070caf2" />
 
+<img width="1919" height="1130" alt="image" src="https://github.com/user-attachments/assets/c1a92d27-b3c8-41ed-903c-f33b46451208" />
+
+
 ## 📌 Project Description
 
 **Decentralized Lottery** is a fully on-chain lottery protocol deployed on Stellar using the Soroban smart-contract runtime.  
